@@ -17,7 +17,7 @@ MERN standing for **MongoDB**, **Express**, **React** and **Node.js** is a great
 I would like to focus on backend development and testing. I enjoy working with and sorting data pools and can't wait to make a career out of it.
 
 
-##Projects
+**Projects**
 Some code I did
 
 A [Product Manager](https://github.com/WDwelle/product-manager) mockup
