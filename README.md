@@ -18,7 +18,6 @@ I would like to focus on backend development and testing. I enjoy working with a
 
 
 ##Projects
-```
 Some code I did
 
 A [Product Manager](https://github.com/WDwelle/product-manager) mockup
@@ -26,5 +25,3 @@ A [Product Manager](https://github.com/WDwelle/product-manager) mockup
 A Python [login registration](https://github.com/WDwelle/login_reg) page
 
 A Java [expense manager](https://github.com/WDwelle/pokeBook)
-```
-
