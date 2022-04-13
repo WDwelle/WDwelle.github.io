@@ -2,7 +2,7 @@
 
 Here I will showcase some of my projects and stuff about me.
 
-I graduated from the Coding Dojo Full Stack development bootcamp in February of 2022.
+I graduated from the Coding Dojo Full Stack development bootcamp .
 
 **Python**
 I fell in love with the simple syntax and power of python. I learned to connect to API's and connect to a mySQL database.
